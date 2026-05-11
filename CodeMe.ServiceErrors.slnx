@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/CodeMe.ServiceErrors/CodeMe.ServiceErrors.csproj" />
+  </Folder>
+  <Project Path="tests/CodeMe.ServiceErrors.UnitTests/CodeMe.ServiceErrors.UnitTests.csproj" />
+</Solution>
